@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main () {
-    printf("seu nome completo aqui");
+    printf("Sofia Bertolini Lopes");
+    printf(" ");
     return 0;
 }
